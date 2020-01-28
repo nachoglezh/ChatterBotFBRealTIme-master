@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ChatterBot</string>
+    <string name="btSend">Enviar</string>
+    <string name="etText">Escribe un nuevo mensaje</string>
+    <string name="error">Ha ocurrido un error</string>
+    <string name="toastNoStt">No lo soporta</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="zero">0</string>
+    <string name="passwordLength">Contraseña demasiado larga</string>
+    <string name="restaurante">Zaidín Gourmet</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="passwordHelp">Click the eye to see your password</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="vacio">Rellene los campos</string>
+    <string name="nodata">No se han encontrado datos en el servidor</string>
+    <string name="conexion">Introduzca la parte dinámica de la URL</string>
+    <string name="conexionbt">Conectar</string>
+    <string name="labelconexion">Conexión</string>
+    <string name="titulomesas">Mesas</string>
+    <string name="cerrarsesion">Cerrar Sesión</string>
+    <string name="title_activity_mesas_gerente">MesasGerente</string>
+    <string name="tituloMesasGerente">Disposiciones</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="registrarse">Registrarse</string>
+</resources>
